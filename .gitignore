@@ -1,0 +1,6 @@
+.DS_Store
+小小桌宠.app/
+源码/build/
+源码/备份/
+*.zip
+*.log
